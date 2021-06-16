@@ -31,6 +31,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - 7. The Phoenix(Fall Out Boy)
 - 8.Closer(The Chainsmokers)
 - 9.Summer(Joe Hisaishi)
-- 10Can't Stop(Red Hot Chili Peppers)
-- 11 if i were a boy (Beyonce)
+- 10.Can't Stop(Red Hot Chili Peppers)
+- 11.if i were a boy (Beyonce)
+- 12.rose
+
 
